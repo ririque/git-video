@@ -31,7 +31,7 @@ git checkout <nome-da-branch>
 - muda para essa branch
 
 git remote add <nome> <url>
-- add um novo repositorio remoto
+- add um novo repositorio remoto.
 
 git push <nome> <nome-da-branch>
 - manda nossas alteracoes locais para o repositorio remoto, pra cada branch
