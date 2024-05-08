@@ -1,6 +1,4 @@
 # meu primeiro push do git 
-<<<<<<< HEAD
-=======
 
 
 git init
@@ -33,7 +31,7 @@ git checkout <nome-da-branch>
 - muda para essa branch
 
 git remote add <nome> <url>
-- add um novo repositorio remoto
+- add um novo repositorio remoto.
 
 git push <nome> <nome-da-branch>
 - manda nossas alteracoes locais para o repositorio remoto, pra cada branch
@@ -45,4 +43,3 @@ git pull <nome> <nome-da-branch>
 git fetch
 - atualiza o novo historico local de acorde com o historico salvo la no rep remoto
 - sincronizacao do local com o remoto
->>>>>>> feature
